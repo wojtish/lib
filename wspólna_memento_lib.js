@@ -1,0 +1,1 @@
+libByName("wspólna memento").show()
