@@ -1,0 +1,1 @@
+libByName("teorie kognitywne").show()
