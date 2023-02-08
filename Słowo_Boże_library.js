@@ -1,0 +1,1 @@
+libByName("Słowo Boże").show()
