@@ -1,1 +1,1 @@
-
+libByName("sukcesy cuda").show()
