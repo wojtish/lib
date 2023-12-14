@@ -1,0 +1,1 @@
+libByName("dziennik").show()
